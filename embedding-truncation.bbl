@@ -1,0 +1,16 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Mikolov \bgroup et al.\egroup }2013a]{Mikolov132}
+Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg~S. Corrado, and Jeff Dean.
+\newblock 2013a.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em NIPS}, pages 3111--3119.
+
+\bibitem[\protect\citename{Mikolov \bgroup et al.\egroup }2013b]{MikolovYZ13}
+Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig.
+\newblock 2013b.
+\newblock Linguistic regularities in continuous space word representations.
+\newblock In {\em NAACL-HLT}, pages 746--751.
+
+\end{thebibliography}

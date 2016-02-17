@@ -1,0 +1,25 @@
+\section{Introduction}
+\label{sec:intro}
+
+{\bf First paragraph}: For each evidence, add some reference (looking the bib files ccg,cited,newref first and then search google).
+
+What is word embedding (1-2 sentences).  Compared to many current NLP systems and techniques treat words as atomic units, word embedding is  a set of language modeling and feature learning techniques where words or phrases from the vocabulary are mapped to vectors of real numbers in a low-dimensional space.
+
+They are useful, why (dense representation, generalization, benjio's NNLM JMLR paper) and applications (features for parsing, tagging, etc.). The word embedding provides the measure of similarity betweem words. " By training a neural network language model, one obtains not just the model itself, but also the learned word representations, which may be used for other,
+potentially unrelated, tasks. This has been used to good effect, for example in (Collobert and Weston,2008; Turian et al., 2010) where induced word representations are used with sophisticated classifiers to improve performance in many NLP tasks." "Distributed representations of words have been shown to benefit NLP tasks like parsing (Lazaridouet al., 2013; Bansal et al., 2014), named entity recognition (Guo et al., 2014), and sentimentanalysis (Socher et al., 2013)."
+
+
+However, word embedding will be effective when large number of dimension is generated. Thus, loading all the word embedding into memory takes a lot of time, or even not feasible for limited memory machines. For example,200 dimensional vector for 3 million words and phase takes up 1.5 GB memory.
+
+{\bf Second paragraph}: explain how much bits indeed we need to represent a vector. We show that 4bit-8bit number representation is enough to achieve same result on word similary task as orginal one. For 8 bit representation in 100 dimemsion, every word is array of integer in range1-256 of size 100, and we can futher compressed this vector using some technique to achieve best space-effeciency. 
+
+
+{\bf Third paragraph}:
+
+In this paper, we present several ways to generate word embeddings with limited memory. The first method is to directly map original 64 bit wide fixed-point into 8 bit value. Secondly, low wide fixed point vector can be directly trained. It significantly reduce memory usage during training, enabling larger models to fit within the given memory capacity.
+
+
+
+{\bf Fourth paragaph}: The rest of this paper is organized as following. This paper will first introduce vector truncation technique and show the serval word simliarity task preformance on these truncated vector.
+
+

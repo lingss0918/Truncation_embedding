@@ -1,0 +1,26 @@
+\section{Method}
+\label{sec:approach}
+In this section, we introduce our word embedding algorithms when the memory is limited.
+We first introduce a brute-force approach to directly truncate the word embeddings with expected dimensions.
+Then we introduce our way to learn the word embedding by considering limited memory.
+
+\subsection{Truncation}
+Directly projection 64 bit float into range 1-256. Let’s say we want to use 8 bit to represent any value is the vector
+8 bit = 256 number. The idea is to map all the original value to these 256 number. Since we found that most of vector value is in range from -3 to 3. Every real value is divided by a scale factor to get into range -128 to 127 (if bigger than 127 set it to 127 and if smaller than -128 set it to -128). When do computation, times the scale factor to truncated value to estimate original value.
+
+
+
+\subsection{Learning with Limited Memory}
+ Since in word2vec, update value of vector is learning rate times gradient of  maximum likelihood which is usually very small to make difference in  small bit wide number representation. We have three technique to solve it.
+1. We still use 8 bit wide vector for training but use seperate table to store update value.
+
+2. We found 20 bits is enough to coverage these value. So we can use 20 bits wide number vector for training and then use truncation method above to compressed to 8 bits.
+
+3. Stochastic rounding
+Stochastic rounding: The probability of rounding x
+to floor{x} is proportional to the proximity of x to floor*{x}:
+
+Stochastic rounding is an unbiased rounding
+scheme and possesses the desirable property
+that the expected rounding error is zero, i.e.
+E (Round (x,hIL, FLi)) = x

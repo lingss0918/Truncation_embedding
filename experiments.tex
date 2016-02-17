@@ -1,0 +1,16 @@
+\section{Experiments}
+\label{sec:exp}
+
+\subsection{Datasets}
+(1) AnnotatedPPDB,a subset of phrase pairs from PPDB which are annotated according to how strongly they represent a paraphrase relationship, and (2) MLParaphrase,a re-annotation of the bigram similarity dataset from Mitchell and Lapata (2010), again annotated for strength of paraphrase relationship
+SimLex-999 is a gold standard resource for the evaluation of models that learn the meaning of words and concepts.
+
+SimLex-999 provides a way of measuring how well models capture similarity, rather than relatedness or association. The scores in SimLex-999 therefore differ from other well-known evaluation datasets such as WordSim-353 (Finkelstein et al. 2002). The following two example pairs illustrate the difference - note that clothes are not similar to closets (different materials, function etc.), even though they are very much related:
+
+Shyam simliarity tasks."Evaluation of Word Vector Representations by Subspace Alignment" Qvec. the evaluation score depends on how well the word vector dimensions align to a matrix of features manually crafted from lexical resources. The evaluation score is shown to correlate strongly with performance in downstream tasks (cf. Tsvetkov et al, 2015 for details and results). QVEC is model agnostic and thus can be used for evaluating word vectors produced by any given model.
+
+\subsection{Compared Algorithms}
+Cosine distance. Spearsman correlation.
+
+\subsection{Results and Discussion}
+After using truncation method, the embedding file size reduces significantly. The performance on the several test dataset remains almost same until mapping orginal to 4 bits wide number representation.

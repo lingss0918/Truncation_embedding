@@ -1,0 +1,528 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdftex 2015.11.17)  11 FEB 2016 23:57
+entering extended mode
+**C:/Users/Shaoshi/Documents/GitHub/embedding-truncation/ccg.bib
+(C:/Users/Shaoshi/Documents/GitHub/embedding-truncation/ccg.bib
+Overfull \hbox (7.18925pt too wide) in paragraph at lines 135--153
+\tenrm @commentp-ITR-BI = Mul-ti-modal Hu-man Com-puter In-ter-ac-tion: To-ward
+ a Proac-tive Com-puter @commentp-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm @
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.\tenrm m
+.etc.
+
+
+Overfull \hbox (15.74478pt too wide) in paragraph at lines 157--161
+[]\tenrm @commentp-KINDLE = Knowl-edge and In-fer-ence via De-scrip-tion Log-ic
+s for Nat-u-ral Lan-guage @commentp-|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm c
+.\tenrm o
+.\tenrm m
+.etc.
+
+[1{C:/Users/Shaoshi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (173.88428pt too wide) in paragraph at lines 308--318
+\tenrm BMC Bioin-for-mat-ics, month = 4, year = 2015, vol-ume = 16, num-ber = 1
+26, url = "http://cogcomp.cs.illinois.edu/papers/KordjamshidiRoMo15.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm B
+.\tenrm M
+.\tenrm C
+.\glue 3.33333 plus 1.66498 minus 1.11221
+.\tenrm B
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--318
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (101.32957pt too wide) in paragraph at lines 319--327
+\tenrm on Ar-ti-fi-cial In-tel-li-gence (IJ-CAI), month = 7, year = 2015, url =
+ "http://cogcomp.cs.illinois.edu/papers/KordjamshidiRoWu15.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm o
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm A
+.\tenrm r
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--327
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+[2]
+Overfull \hbox (74.82732pt too wide) in paragraph at lines 344--351
+\tenrm Struc-tured Learn-ing, book-ti-tle = UIUC PhD The-sis, year = 2015, url 
+= "http://cogcomp.cs.illinois.edu/papers/Chang15.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm S
+.\tenrm t
+.\tenrm r
+.\tenrm u
+.\tenrm c
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--351
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (137.24635pt too wide) in paragraph at lines 361--369
+\tenrm so-ci-a-tion for Com-pu-ta-tional Lin-guis-tics (NAACL), month = 5, year
+ = 2015, url = "http://cogcomp.cs.illinois.edu/papers/PengKhRo15.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm s
+.\discretionary replacing 2
+..\tenrm o
+..\tenrm -
+.\tenrm o
+.\kern0.27779
+.\tenrm c
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--369
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (91.1213pt too wide) in paragraph at lines 391--399
+\tenrm tional Bi-ol-ogy, and Health In-for-mat-ics, month = 9, year = 2014, url
+ = "http://cogcomp.cs.illinois.edu/papers/JindalGuRo14.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm o
+.\tenrm n
+.\tenrm a
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--399
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+[3]
+Overfull \hbox (43.71832pt too wide) in paragraph at lines 453--462
+\tenrm So-ci-ety for In-for-ma-tion Sci-ence and Tech-nol-ogy (JA-SIST), url = 
+"http://cogcomp.cs.illinois.edu/papers/VZRP14.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm S
+.\discretionary replacing 2
+..\tenrm o
+..\tenrm -
+.\tenrm o
+.\kern0.27779
+.\tenrm c
+.etc.
+
+
+Overfull \hbox (172.78802pt too wide) in paragraph at lines 463--471
+\tenrm rect-ing Gram-mat-i-cal Verb Er-rors, book-ti-tle = EACL, month = 4, yea
+r = 2014, url = "http://cogcomp.cs.illinois.edu/papers/RozovskayaRoSr14.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm r
+.\tenrm e
+.\tenrm c
+.\tenrm t
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--471
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (68.46837pt too wide) in paragraph at lines 498--506
+\tenrm on Ma-chine Learn-ing (ICML), year = 2014, ac-cep-tance = 14.7%, url = "
+http://cogcomp.cs.illinois.edu/papers/l3m.icml.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm o
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm M
+.\tenrm a
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--506
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (115.54964pt too wide) in paragraph at lines 518--525
+\tenrm line Tex-tual In-for-ma-tion, book-ti-tle = UIUC PhD The-sis, year = 201
+3, url = "http://cogcomp.cs.illinois.edu/papers/Vydiswaran13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm l
+.\tenrm i
+.\tenrm n
+.\tenrm e
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--525
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (17.9939pt too wide) in paragraph at lines 526--533
+\tenrm tions, book-ti-tle = UIUC PhD The-sis, year = 2013, url = "http://cogcom
+p.cs.illinois.edu/papers/Samdani13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm o
+.\tenrm n
+.\tenrm s
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--533
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (78.77399pt too wide) in paragraph at lines 567--575
+\tenrm Lan-guage Pro-cess-ing (EMNLP), month = 10, year = 2013, url = "http://c
+ogcomp.cs.illinois.edu/papers/RozovskayaRo13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm L
+.\tenrm a
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm g
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--575
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (73.7462pt too wide) in paragraph at lines 586--594
+\tenrm ral Lan-guage Pro-cess-ing (EMNLP), month = 10, year = 2013, url = "http
+://cogcomp.cs.illinois.edu/papers/JindalRo13c.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm r
+.\tenrm a
+.\tenrm l
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm L
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--594
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (98.4407pt too wide) in paragraph at lines 595--602
+\tenrm Meth-ods in Nat-u-ral Lan-guage Pro-cess-ing (EMNLP), year = 2013, url =
+ "http://cogcomp.cs.illinois.edu/papers/ChangSaRo13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm M
+.\tenrm e
+.\tenrm t
+.\tenrm h
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--602
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+[4]
+Overfull \hbox (31.21835pt too wide) in paragraph at lines 621--629
+\tenrm tional Lin-guis-tics (ACL), month = 8, year = 2013, url = "http://cogcom
+p.cs.illinois.edu/papers/KunduSrRo13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm o
+.\tenrm n
+.\tenrm a
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (40.62111pt too wide) in paragraph at lines 650--657
+\tenrm Com-pu-ta-tional Lin-guis-tics (ACL), year = 2013, url = "http://cogcomp
+.cs.illinois.edu/papers/GoldwasserRoth13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm C
+.\tenrm o
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm p
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--657
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (103.6629pt too wide) in paragraph at lines 658--669
+\tenrm CAI), pages = 2106-2112, month = 8, year = 2013, ac-cep-tance = 19%, url
+ = "http://cogcomp.cs.illinois.edu/papers/JindalRo13.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm C
+.\tenrm A
+.\tenrm I
+.\tenrm )
+.\tenrm ,
+.etc.
+
+
+Overfull \hbox (139.98244pt too wide) in paragraph at lines 704--715
+\tenrm (COL-ING), pages = 1327-1342, month = 12, year = 2012, ac-cep-tance = 20
+%, url = "http://cogcomp.cs.illinois.edu/papers/JindalRo12b.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm (
+.\tenrm C
+.\tenrm O
+.\tenrm L
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Overfull \hbox (84.57948pt too wide) in paragraph at lines 736--745
+\tenrm fer-ence on Data Min-ing (ICDM), year = 2012, ac-cep-tance = 10.7%, url 
+= "http://cogcomp.cs.illinois.edu/papers/undefined.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm f
+.\tenrm e
+.\tenrm r
+.\discretionary
+..\tenrm -
+.\tenrm e
+.etc.
+
+[5]
+Overfull \hbox (132.94083pt too wide) in paragraph at lines 770--780
+\tenrm tion Re-trieval, pages = 219--231, month = 4, year = 2012, vol-ume = 722
+4, url = "http://cogcomp.cs.illinois.edu/papers/SondhiVyZh12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm t
+.\tenrm i
+.\tenrm o
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--780
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (62.02393pt too wide) in paragraph at lines 793--803
+\tenrm In-for-ma-tion Sci-ence and Tech-nol-ogy, month = 10, year = 2012, url =
+ "http://cogcomp.cs.illinois.edu/papers/VZRP12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm I
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm f
+.\tenrm o
+.etc.
+
+
+Overfull \hbox (2.6905pt too wide) in paragraph at lines 843--853
+\tenrm month = 6, year = 2012, ac-cep-tance = 27%, url = "http://cogcomp.cs.ill
+inois.edu/papers/SamdaniRo12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm o
+.\tenrm n
+.\kern-0.27779
+.\tenrm t
+.etc.
+
+
+Overfull \hbox (133.16296pt too wide) in paragraph at lines 854--867
+\tenrm = Hal Daume III, jour-nal = Ma-chine Learn-ing, vol-ume = 88, num-ber = 
+3, url = "http://cogcomp.cs.illinois.edu/papers/ChangRaRo12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm =
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm H
+.\tenrm a
+.\tenrm l
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--867
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (110.71843pt too wide) in paragraph at lines 868--880
+\tenrm Lin-guis-tics (ACL), pages = 10, month = 7, year = 2012, ac-cep-tance = 
+19%, url = "http://cogcomp.cs.illinois.edu/papers/LuRo12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm L
+.\tenrm i
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm g
+.etc.
+
+
+Overfull \hbox (7.66273pt too wide) in paragraph at lines 881--888
+\tenrm Lan-guage Pro-cess-ing (EMNLP), year = 2012, url = "http://cogcomp.cs.il
+linois.edu/papers/RatinovRo12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm L
+.\tenrm a
+.\tenrm n
+.\discretionary
+..\tenrm -
+.\tenrm g
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 881--888
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+[6]
+Overfull \hbox (113.10744pt too wide) in paragraph at lines 889--897
+\tenrm Nat-u-ral Lan-guage Pro-cess-ing (EMNLP), month = 7, year = 2012, url = 
+"http://cogcomp.cs.illinois.edu/papers/SrikumarKuRo12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm N
+.\tenrm a
+.\tenrm t
+.\discretionary
+..\tenrm -
+.\tenrm u
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--897
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (164.38531pt too wide) in paragraph at lines 898--906
+\tenrm As-so-ci-a-tion for Com-pu-ta-tional Lin-guis-tics (NAACL), month = 6, y
+ear = 2012, url = "http://cogcomp.cs.illinois.edu/papers/SamdaniChRo12.pdf",|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm A
+.\tenrm s
+.\discretionary
+..\tenrm -
+.\tenrm s
+.\discretionary replacing 2
+..\tenrm o
+..\tenrm -
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 898--906
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+! Misplaced alignment tab character &.
+l.935 ...g/action/displayAbstract?fromPage=online&
+                                                  aid=8511905&fulltextType=R...
+
+? 
+! Emergency stop.
+l.935 ...g/action/displayAbstract?fromPage=online&
+                                                  aid=8511905&fulltextType=R...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
